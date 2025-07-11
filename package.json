@@ -24,14 +24,7 @@
   ],
   "author": "devwitherik",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devwitherik/localhost-check.git"
-  },
-  "bugs": {
-    "url": "https://github.com/devwitherik/localhost-check/issues"
-  },
-  "homepage": "https://github.com/devwitherik/localhost-check#readme",
+  "homepage": "https://github.com/erikkostashuk/localhost-check#readme",
   "funding": {
     "type": "individual",
     "url": "https://coff.ee/devwitherik"

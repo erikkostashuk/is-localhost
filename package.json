@@ -1,5 +1,5 @@
 {
-  "name": "is-localhost",
+  "name": "localhost-check",
   "version": "1.0.0",
   "description": "Check if a string or URL refers to localhost",
   "main": "dist/index.js",
@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devwitherik/is-localhost.git"
+    "url": "git+https://github.com/devwitherik/localhost-check.git"
   },
   "bugs": {
-    "url": "https://github.com/devwitherik/is-localhost/issues"
+    "url": "https://github.com/devwitherik/localhost-check/issues"
   },
-  "homepage": "https://github.com/devwitherik/is-localhost#readme",
+  "homepage": "https://github.com/devwitherik/localhost-check#readme",
   "funding": {
     "type": "individual",
     "url": "https://coff.ee/devwitherik"

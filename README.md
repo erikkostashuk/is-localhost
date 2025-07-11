@@ -1,7 +1,7 @@
-# is-localhost
+# localhost-check
 
-[![npm version](https://img.shields.io/npm/v/is-localhost.svg)](https://www.npmjs.com/package/is-localhost)
-[![npm downloads](https://img.shields.io/npm/dm/is-localhost.svg)](https://www.npmjs.com/package/is-localhost)
+[![npm version](https://img.shields.io/npm/v/localhost-check.svg)](https://www.npmjs.com/package/localhost-check)
+[![npm downloads](https://img.shields.io/npm/dm/localhost-check.svg)](https://www.npmjs.com/package/localhost-check)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
@@ -10,15 +10,15 @@ A zero-dependency TypeScript/JavaScript library to check if a string or URL refe
 ## Installation
 
 ```bash
-npm install is-localhost
+npm install localhost-check
 ```
 
 ## Usage
 
 ```javascript
-import { isLocalhost } from 'is-localhost';
+import { isLocalhost } from 'localhost-check';
 // or
-const { isLocalhost } = require('is-localhost');
+const { isLocalhost } = require('localhost-check');
 
 // Direct localhost strings
 console.log(isLocalhost('localhost'));        // true

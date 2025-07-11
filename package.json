@@ -1,0 +1,49 @@
+{
+  "name": "is-localhost",
+  "version": "1.0.0",
+  "description": "Check if a string or URL refers to localhost",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test.js",
+    "prepublishOnly": "npm run build && npm test",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "localhost",
+    "127.0.0.1",
+    "::1",
+    "url",
+    "validation",
+    "check",
+    "loopback",
+    "ipv4",
+    "ipv6",
+    "hostname"
+  ],
+  "author": "devwitherik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devwitherik/is-localhost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devwitherik/is-localhost/issues"
+  },
+  "homepage": "https://github.com/devwitherik/is-localhost#readme",
+  "funding": {
+    "type": "individual",
+    "url": "https://coff.ee/devwitherik"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

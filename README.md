@@ -1,7 +1,6 @@
 # localhost-check
 
 [![npm version](https://img.shields.io/npm/v/localhost-check.svg)](https://www.npmjs.com/package/localhost-check)
-[![npm downloads](https://img.shields.io/npm/dm/localhost-check.svg)](https://www.npmjs.com/package/localhost-check)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
